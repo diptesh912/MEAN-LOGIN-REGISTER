@@ -1,0 +1,29 @@
+/* Base Elements */
+
+body {
+    margin-top: 70px;
+}
+
+.waste-section img {
+    width: 100px;
+    height: 100px;
+}
+
+.main{
+
+
+  height: 50%;
+  width: 855px;
+   margin:0 auto;
+  text-align: center;
+
+
+}
+
+
+body{
+  background-image: url('http://bgfons.com/upload/smoke_texture2791.jpg');
+  height: auto;
+  width: auto;
+  color: white;
+}
